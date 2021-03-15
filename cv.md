@@ -37,7 +37,7 @@ Problem-Solving, self-learning, team-player, flexibilty.
 
 ## EDUCATION
 
-*	2018 - now : Bachelor's degree in Computer Engineering, Vistula Unversity
+*	2019 - now : Bachelor's degree in Computer Engineering, Vistula Unversity
       
 ## LANGUAGES
 
