@@ -8,7 +8,7 @@
 
 [My GitHub](https://github.com/vetusst)
 
-## ABOUT
+## SUMMARY
 
 I'm activly learning and very interested in programming languages and everything related, have a basic understanding how things in computer science work.
 
